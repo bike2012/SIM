@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CameraCalibration", "CameraCalibration\CameraCalibration.vcxproj", "{D336271F-4F57-4840-84A3-0C7F458CB4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D336271F-4F57-4840-84A3-0C7F458CB4C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D336271F-4F57-4840-84A3-0C7F458CB4C5}.Debug|Win32.Build.0 = Debug|Win32
+		{D336271F-4F57-4840-84A3-0C7F458CB4C5}.Release|Win32.ActiveCfg = Release|Win32
+		{D336271F-4F57-4840-84A3-0C7F458CB4C5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

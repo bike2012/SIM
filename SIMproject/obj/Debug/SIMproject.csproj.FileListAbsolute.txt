@@ -1,0 +1,4 @@
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Debug\SIMproject.csprojResolveAssemblyReference.cache
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Debug\SIMproject.form.resources
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Debug\SIMproject.Properties.Resources.resources
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Debug\SIMproject.csproj.GenerateResource.Cache

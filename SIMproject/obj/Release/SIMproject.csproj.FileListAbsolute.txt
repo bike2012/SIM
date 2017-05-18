@@ -1,0 +1,9 @@
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Release\SIMproject.form.resources
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Release\SIMproject.Properties.Resources.resources
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Release\SIMproject.csproj.GenerateResource.Cache
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\bin\Release\SIMproject.exe.config
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\bin\Release\SIMproject.exe
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\bin\Release\SIMproject.pdb
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Release\SIMproject.exe
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Release\SIMproject.pdb
+F:\Files\Visual Studio 2017\Projects\SIM\SIMproject\obj\Release\SIMproject.csprojResolveAssemblyReference.cache
